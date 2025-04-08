@@ -1,0 +1,67 @@
+.obedient{
+    background-color: blue;
+    padding: 10px;
+}
+.fly{
+    color: white;
+}
+.mega{
+    background-color: rgb(230, 228, 228);
+    border-bottom: solid 3px blue;
+    padding: 5px;
+}
+.alpha{
+    background-color: orange;
+    padding: 5px;
+}
+.search{
+    border: solid 2px rgb(167, 109, 3);
+}
+.air{
+    background-color: rgb(172, 119, 21);
+    color: white;
+    padding: 3px;
+}
+.today{
+    color: white;
+    background-color: greenyellow;
+    margin: 0px;
+    padding: 6px;
+    width: 850px;
+}
+.aero{
+    color: white;
+    background-color: green;
+}
+.imran{
+
+    border: solid 2px rgb(119, 177, 33);
+}
+.neel{
+    background-color: green;
+    color: white;
+}
+.dynamic{
+    color: white;
+    background-color: purple;
+}
+.bag{
+    margin: 5px;
+    border: solid 3px purple;
+}
+.mirchi{
+    border: solid 2px red;
+}
+.lemon{
+    color: white;
+    background-color: red;
+}
+.VAT{
+    color: white;
+    background-color: rgb(226, 126, 126);
+}
+.Contact{
+    color: white;
+    background-color: rgb(65, 59, 59);
+    padding: 5px;
+}
